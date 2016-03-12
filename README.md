@@ -2,7 +2,7 @@
 
 This repository helps building a Linux 3.4.39 kernel for an [OrangePiPlus](http://linux-sunxi.org/Xunlong_Orange_Pi_Plus) board.
 
-It is based on [Loboris](https://github.com/loboris/OrangePI-Kernel/) kernel, however
+It is based on [Boris Lovosevic (loboris)](https://github.com/loboris/OrangePI-Kernel/) kernel, however
   * it produces a smaller kernel (800 k instead of 1M),
   * more drivers are included in.
 
@@ -18,3 +18,4 @@ It is based on [Loboris](https://github.com/loboris/OrangePI-Kernel/) kernel, ho
   * nand driver ?
   * using a more recent toolchain
   * creating debian packages
+
